@@ -1,0 +1,3 @@
+2013-01-17 15:59:09	<?xml version="1.0" encoding="utf-8" ?><error_response><code>530</code><msg>Remote service error</msg><sub_code>isv.item-get-service-error:ITEM_NOT_FOUND</sub_code><sub_msg>获取单个商品失败</sub_msg></error_response><!--top050061.cm4-->
+2013-01-17 15:59:14	<?xml version="1.0" encoding="utf-8" ?><error_response><code>530</code><msg>Remote service error</msg><sub_code>isv.item-get-service-error:ITEM_NOT_FOUND</sub_code><sub_msg>获取单个商品失败</sub_msg></error_response><!--top049181.cm4-->
+2013-01-17 15:59:20	<?xml version="1.0" encoding="utf-8" ?><error_response><code>530</code><msg>Remote service error</msg><sub_code>isv.item-get-service-error:ITEM_NOT_FOUND</sub_code><sub_msg>获取单个商品失败</sub_msg></error_response><!--top050057.cm4-->
